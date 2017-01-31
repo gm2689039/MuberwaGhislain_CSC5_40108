@@ -1,0 +1,3 @@
+Player 1: 0   Winning ratio: 0%
+Player 2: 1   Winning ratio: 100%
+Tie game: 0   tie ratio: 0%
